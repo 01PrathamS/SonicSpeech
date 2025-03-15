@@ -1,2 +1,2 @@
 # SonicSpeech
-Implementaiton of deep learning architectures for speech and audio processing.
+implementation of deep learning architectures for speech and audio processing.
